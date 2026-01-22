@@ -12,7 +12,11 @@ body {
     justify-content: center;
     align-items: center;
     min-height: 100vh;
+<<<<<<< HEAD
     background-color: rgb(2, 23, 31);
+=======
+    background-color: lightblue;
+>>>>>>> 83bc2308a96a48399b39a9a5c523425304dac22e
 }
 
 .container {
@@ -24,9 +28,15 @@ body {
     max-width: 1000px;
     min-height: 1000px;
     background-color: #fff;
+<<<<<<< HEAD
     box-shadow: 0px 0px 1em #dddcdc;
     -webkit-box-shadow: 0px 0px 1em #dddcdc;
     -moz-box-shadow: 0px 0px 1em #dddcdc;
+=======
+    box-shadow: 0px 0px 1em #202020;
+    -webkit-box-shadow: 0px 0px 1em #202020;
+    -moz-box-shadow: 0px 0px 1em #202020;
+>>>>>>> 83bc2308a96a48399b39a9a5c523425304dac22e
 }
 
 /* left_Side */
@@ -224,7 +234,11 @@ p {
 
 .skills .box {
     display: grid;
+<<<<<<< HEAD
     grid-template-columns: 120px 1fr;
+=======
+    grid-template-columns: 150px 1fr;
+>>>>>>> 83bc2308a96a48399b39a9a5c523425304dac22e
     justify-content: center;
     align-items: center;
     position: relative;
@@ -240,7 +254,11 @@ p {
 .skills .box .percent {
     position: relative;
     width: 100%;
+<<<<<<< HEAD
     height: 15px;
+=======
+    height: 10px;
+>>>>>>> 83bc2308a96a48399b39a9a5c523425304dac22e
     background-color: #f0f0f0;
 }
 
