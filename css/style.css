@@ -302,3 +302,25 @@ p {
         grid-template-columns: repeat(1, 1fr);
     }
 }
+.logo_id2 {
+        width: 50px;       /* Largura responsiva */
+        max-width: 100%;  /* Tamanho máximo */
+        height: auto;      /* Mantém a proporção */
+        border-radius: 10px; /* Bordas arredondadas */
+        display: block;    /* Remove espaços indesejados */
+        margin: 0 auto;    /* Centraliza a imagem */
+        margin-right: 60px ;
+        float: left;
+}
+
+.logo_id {
+    width: 100px;       /* Largura responsiva */
+    max-width: 100%;  /* Tamanho máximo */
+    height: auto;      /* Mantém a proporção */
+    border-radius: 10px; /* Bordas arredondadas */
+    display: block;    /* Remove espaços indesejados */
+    margin: 0 auto;    /* Centraliza a imagem */
+    margin-right: 15px ;
+    float: left;
+}
+
